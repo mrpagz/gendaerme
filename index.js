@@ -1,6 +1,6 @@
 // imports
 const inquirer = require("inquirer");
-const generatorMarkdown = require("./generateMarkdown")
+const generatorMarkdown = require("./genMarkdown")
 const fs = require("fs"); 
 
 // Questions asked to the user
@@ -57,7 +57,7 @@ const questions = [
 // Writing to a file 
 function writeToFile(fileName, data) {
 
-fs.writeFile("./demo/"+fileName, data, function(err) {
+fs.writeFile("./readMEFolder/"+fileName, data, function(err) {
   if (err) {
     return console.log(err);
   }
