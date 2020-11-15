@@ -7,7 +7,7 @@ const fs = require("fs");
 const questions = [
   {
     type: "input",
-    message: "What is the title of your project?",
+    message: "What is your GitHub username?",
     name: "UserName",
   },
   {
@@ -18,7 +18,7 @@ const questions = [
 
   {
     type: "input",
-    message: "What is the title for your project?",
+    message: "What is the title of this project?",
     name: "Title",
   },
   {
