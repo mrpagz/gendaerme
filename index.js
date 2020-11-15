@@ -3,7 +3,7 @@ const inquirer = require("inquirer");
 const generatorMarkdown = require("./genMarkdown")
 const fs = require("fs"); 
 
-// Questions asked to the user
+// array of questions for user
 const questions = [
   {
     type: "input",
@@ -54,7 +54,7 @@ const questions = [
   }
 ];
 
-// Writing to a file 
+// function to write README file 
 function writeToFile(fileName, data) {
 
 fs.writeFile("./readMEFolder/"+fileName, data, function(err) {
@@ -67,7 +67,7 @@ fs.writeFile("./readMEFolder/"+fileName, data, function(err) {
 }
 
 
-// initialization function
+// function to initialize program
 function init() {
   inquirer.prompt(questions)
   .then(function(data) {
@@ -76,5 +76,5 @@ function init() {
 }
 
 
-// run the app
+// function call to initialize program
 init();
