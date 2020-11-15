@@ -1,6 +1,6 @@
 // imports
 const inquirer = require("inquirer");
-const generatorMarkdown = require("./genMarkdown")
+const generatorMarkdown = require("./generateMarkdown")
 const fs = require("fs"); 
 
 // array of questions for user
