@@ -1,5 +1,5 @@
-# gendarme
-  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrpagZ/gendaerme)
+# README GENERATOR
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/mrpagZ/README GENERATOR)
   # Description
   Creating an application called README Generator in order guide user in creating an effective and efficient readme without the user taking a lot of time completing it. This will give the user an ample time to do his project having less time in creating read me.
   # Table of Contents 
@@ -12,7 +12,7 @@
   # Installation
   The following necessary dependencies must be installed to run the application properly: NPM
   # Usage
-  ​This application is used for Application is used for creating a README with less time and hussle
+  ​This application is used for creating a README with less time and hussle
   # License
   This project is license under the  license.
   # Contributing

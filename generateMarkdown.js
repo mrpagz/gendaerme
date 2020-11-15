@@ -17,7 +17,7 @@ function generateMarkdown(data) {
   # Usage
   ​This application is used for ${data.Usage}
   # License
-  This project is license under the ${data.License} license.
+  This project is licensed under ${data.License}.
   # Contributing
   ​Contributors: ${data.Contributor}
   # Tests
