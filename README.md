@@ -15,7 +15,7 @@
   * [Tests](#tests)
   * [Questions](#questions)
   # Installation
-  The following necessary dependencies must be installed to run the application properly: NPM
+  The following necessary dependencies must be installed to run the application properly: NPM - Inquirer
   # Usage
   ​This application is used for creating a README with less time and hussle
   # License
