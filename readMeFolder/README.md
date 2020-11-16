@@ -13,7 +13,6 @@
   The following necessary dependencies must be installed to run the application properly: NPM
   # Usage
   ​This application is used for creating a README with less time and hussle
-  Please access the video walkthrough on how to use this app by using this link https://drive.google.com/file/d/1XKBJPRnhCSPEJ1lIXXu_MNLrOn1BsKd8/view?usp=sharing
   # License
   This project is licensed under None.
   # Contributing
@@ -21,5 +20,5 @@
   # Tests
   To run tests, you need to run the following command: node index.js
   # Questions
-  If you have any questions about the repo, open an issue or contact mrpagZ directly francisroy1124@gmail.com.
+  If you have any questions about the repo, open an issue or contact mrpagZ directly francisroy1124@gmail.com..
   
