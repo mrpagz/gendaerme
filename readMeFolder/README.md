@@ -13,7 +13,7 @@
   The following necessary dependencies must be installed to run the application properly: NPM
   # Usage
   ​This application is used for creating a README with less time and hussle
-  Please access the video walkthrough on how to use this app by using this link 
+  Please access the video walkthrough on how to use this app by using this link https://github.com/mrpagz/gendaerme/blob/master/readMeFolder/README%20GENERATOR.webm
   # License
   This project is licensed under None.
   # Contributing
